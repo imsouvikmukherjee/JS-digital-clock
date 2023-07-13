@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1e272e;
+    
+}
+
+.section{
+   color: #ff3f34;
+  text-align: center;
+  margin-top: 300px;
+  font-size: 56px;
+  
+}
